@@ -2,8 +2,6 @@
 title: Speeding up fastai Tabular with NumPy
 date: 2020-04-22
 categories: [fastai]
-execute:
-    eval: false
 ---
 
 > Speeding up fastai tabular training by 40%
