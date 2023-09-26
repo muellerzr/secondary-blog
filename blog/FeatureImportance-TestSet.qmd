@@ -4,6 +4,8 @@ toc: true
 category: fastai
 date: 2019-07-11
 image: media/blog/FeatureImportance-TestSet/01.png
+aliases:
+  - ../FeatureImportance-TestSet.html
 ---
 
 For all of my university research thus far, I have been utilizing the tabular library within Fast.AI to apply deep neural networks on tabular data (something not regularly done) with good results. As such, I have done a large amount of outside work and research into common practices with Tabular data. In this article I will be discussing Feature Importance as well as how to grade a test set using the Fast.AI library.

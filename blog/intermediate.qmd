@@ -2,8 +2,8 @@
 title: Zero to Hero with `fastai` - Intermediate
 date: 2020-08-21
 categories: [fastai]
-execute:
-    eval: false
+aliases:
+  - ../fastblog/2020/08/21/intermediate.html
 ---
 
 > A general overview of the major differences between the old `fastai` and the new

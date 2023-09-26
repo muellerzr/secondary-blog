@@ -2,8 +2,8 @@
 title: Hacking the Enum
 date: 2022-03-25
 category: projects
-execute:
-    eval: false
+aliases:
+    - ../fastblog/2022/03/25/HackingTheEnum.html
 ---
 
 

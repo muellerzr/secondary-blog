@@ -2,6 +2,8 @@
 title: Speeding up fastai Tabular with NumPy
 date: 2020-04-22
 categories: [fastai]
+aliases:
+    - ../fastblog/2020/04/22/TabularNumpy.html
 ---
 
 > Speeding up fastai tabular training by 40%

@@ -2,6 +2,8 @@
 title: The Idea of a Transform
 date: 2020-03-22
 categories: [fastai, DataBlock]
+aliases:
+    - ../fastblog/datablock/2020/03/22/TransformFunctions.html
 ---
 
 > Utilizing basic functions inside the DataBlock

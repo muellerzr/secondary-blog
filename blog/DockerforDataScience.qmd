@@ -2,6 +2,8 @@
 title: 'Docker for Data Science, Efficient Image Instancing without System Issues'
 image: media/blog/DockerForDataScience/01.jpg
 date: 2021-12-05
+aliases:
+    - ../fastblog/2021/12/05/DockerforDataScience.html
 ---
 
 

@@ -2,8 +2,8 @@
 title: Zero to Hero with `fastai` - Beginner
 categories: [fastai]
 date: 2020-08-21
-execute:
-    eval: false
+aliases:
+    - ../fastblog/2020/08/21/beginner.html
 ---
 
 > An introduction to the world of Deep Learning, what the `fastai` library is, and the problems it attempts to solve

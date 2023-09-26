@@ -1,9 +1,9 @@
 ---
-title: 'Inference in PyTorch, what do the wrappers mean? What''s best?'
+title: "Inference in PyTorch, what do the wrappers mean? What's best?"
 date: 2022-05-14
-category: project
-execute:
-    eval: false
+category: projects
+aliases:
+    - ../fastblog/torch/2022/05/14/PyTorchInference.html
 ---
 
 

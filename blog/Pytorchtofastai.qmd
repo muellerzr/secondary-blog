@@ -2,8 +2,8 @@
 title: 'Pytorch to fastai, Bridging the Gap'
 date: 2021-02-14
 categories: [fastai]
-execute:
-    eval: false
+aliases:
+    - ../fastblog/2021/02/14/Pytorchtofastai.html
 ---
 
 > Understanding how to bring Pytorch code into the fastai space with minimal headache

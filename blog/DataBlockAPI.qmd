@@ -2,8 +2,8 @@
 title: fastai and the New DataBlock API
 date: 2020-03-21
 categories: [fastai, DataBlock]
-execute:
-    eval: false
+aliases:
+    - ../fastblog/datablock/2020/03/21/DataBlockAPI.html
 ---
 
 > A quick glance at the new top-level api

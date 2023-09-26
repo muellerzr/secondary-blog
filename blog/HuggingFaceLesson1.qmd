@@ -3,8 +3,8 @@ title: 'HuggingFace Course Notes, Chapter 1 (And Zero), Part 1'
 date: 2021-06-14
 categories: [education]
 image: media/blog/HuggingFaceLesson1/01.png
-execute:
-    eval: false
+aliases:
+    - ../fastblog/huggingface/2021/06/14/HuggingFaceLesson1.html
 ---
 
 

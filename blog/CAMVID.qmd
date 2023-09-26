@@ -3,8 +3,8 @@ title: Generating Comparitive Baselines for CAMVID with fastai's Dynamic Unet
 category: fastai
 date: 2020-09-19
 image: media/blog/CAMVID/01.png
-execute:
-    eval: false
+aliases:
+    - ../fastblog/papers/2020/09/19/CAMVID.html
 ---
 
 > Exploring how baselines are being made and where fastai can fit in
